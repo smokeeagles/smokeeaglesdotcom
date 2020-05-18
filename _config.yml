@@ -77,17 +77,17 @@ analytics:
 
 # Site Author
 author:
-  name             :
-  avatar           :
-  bio              :
-  location         :
-  email            :
+  name             : Smoke Eagles
+  avatar           : se/logo.jpg
+  bio              : Flying Club
+  location         : KFUL
+  email            : contact@smokeeagles.com
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : groups/158452172119844
   foursquare       :
   github           :
   google_plus      :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : smokeeagles
   vine             :
   weibo            :
   xing             :
