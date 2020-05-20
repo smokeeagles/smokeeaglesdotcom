@@ -13,19 +13,16 @@ feature_row:
     alt: "Online Scheduling"
     title: "Online Scheduling"
     excerpt: "Quickly and easily schedule an aircraft 24 hours a day with Schedule Pointe"
-    url: "/online-scheduling/"
     btn_label: "Learn More"
   - image_path: se/Both.jpg
     alt: "Based at KFUL"
     title: "Based at KFUL"
     excerpt: "Providing inexpensive, well-maintained flying to our members for over 50 years!"
-    url: "/about/"
     btn_label: "Learn More"
   - image_path: se/N7425G/N7425G-4.jpg
     alt: "No daily minimums!"
     title: "No daily minimums!"
     excerpt: "Take the plane for the day or week, pay only for what you fly!<br /><br />Fly for as far or as long as you would like!"
-    url: "/docs/license/"
     btn_label: "Learn More"
 intro:
   - excerpt: 'Come join us!  We are a social club with approximately 30 members between two aircraft utilizing online booking and 24x7 access to the aircraft.'
