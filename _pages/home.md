@@ -17,7 +17,7 @@ feature_row:
   - image_path: se/Both.jpg
     alt: "Based at KFUL"
     title: "Based at KFUL"
-    excerpt: "Providing inexpensive, well-maintained flying to our members for over 70 years!"
+    excerpt: "Providing inexpensive, well-maintained flying to our members since 1954!"
     btn_label: "Learn More"
   - image_path: se/N7425G/N7425G-4.jpg
     alt: "No daily minimums!"
