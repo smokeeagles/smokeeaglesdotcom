@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: se/clouds.gif
-  cta_label: "Join Now"
+  cta_label: "Membership Info"
   cta_url: "/membership/"
   caption:
 excerpt: 'A non-profit flying community in Southern California'
@@ -17,7 +17,7 @@ feature_row:
   - image_path: se/Both.jpg
     alt: "Based at KFUL"
     title: "Based at KFUL"
-    excerpt: "Providing inexpensive, well-maintained flying to our members for over 50 years!"
+    excerpt: "Providing inexpensive, well-maintained flying to our members for over 70 years!"
     btn_label: "Learn More"
   - image_path: se/N7425G/N7425G-4.jpg
     alt: "No daily minimums!"
@@ -29,10 +29,10 @@ intro:
 feature_row2:
   - image_path: se/N9910E/parked.jpg
     alt: "N9910E"
-    title: "Find us on Facebook"
+    title: "Follow us on Facebook"
     excerpt: 'Stay up to date with the latest Smoke Eagles events and member stories!'
     url: "https://www.facebook.com/groups/158452172119844/"
-    btn_label: "Join Us"
+    btn_label: "Follow Us"
     btn_class: "btn--inverse"
 ---
 

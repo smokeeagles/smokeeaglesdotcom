@@ -19,11 +19,11 @@ We are always looking for potential new members to join the Smoke Eagles. If you
     <li>Fuel cost reimbursement.</li>
     <li>24/7/365 access to the planes using your own keys!</li>
     <li>Low buy-in, 100% refundable if you leave!</li>
-    <li>No special rules or limitations – FAA currency is the only requirement</li>
+    <li>FAA currency and club checkout required.</li>
     <li>Members must be licensed pilots. No student pilots.</li>
     <li>Maximum of 30 members.</li>
-    <li>Membership buy-in is $3300, refundable upon resignation and membership position filled.</li>
-    <li>Volunteer Obligation of six hours of work (washes, marketing, maintenance, support, events) or $90 per year.</li>
+    <li>Membership buy-in required, refundable upon resignation and membership position filled.</li>
+    <li>Volunteer Obligation of six hours of work (washes, marketing, maintenance, support, events) or by payment.</li>
 </ul>
 
-<a href="{{ base_path }}/contact" class="btn">Join Now</a>
+<a href="{{ base_path }}/contact" class="btn">Contact Us About Membership</a>

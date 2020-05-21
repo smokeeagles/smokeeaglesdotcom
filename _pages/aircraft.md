@@ -20,6 +20,12 @@ layouts_gallery_n9910e:
   - url: se/N9910E/20170703_133657.jpg
     image_path: se/N9910E/20170703_133657-400x284.jpg
     alt: "Installing ADS-B"
+  - url: se/N9910E/182front.jpg
+    image_path: se/N9910E/182front-400x284.jpg
+    alt: "Front seat"
+  - url: se/N9910E/182backseat.jpg
+    image_path: se/N9910E/182backseat-400x284.jpg
+    alt: "Back seat"
   - url: se/N9910E/N9910E-6.jpg
     image_path: se/N9910E/N9910E-6-400x284.jpg
     alt: ""
@@ -55,8 +61,9 @@ layouts_gallery_n7425g:
 <center><img src="{{ base_path }}/images/se/N9910E/182Photo.jpg" alt="N9910E" /></center>
 
 <ul>
-    <li>N9910E 182P</li>
-    <li>$145/hour wet, based on tachometer time (not Hobbs!)</li>
+    <li>Cessna 182P</li>
+    <li>Engine: 230HP</li>
+    <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
     <li>Garmin GNS 530 WAAS</li>
     <li>Garmin GTX-345 ADS-B Transponder</li>
     <li>Dual Digital NAVCOM (one with flip-flop)</li>
@@ -64,8 +71,7 @@ layouts_gallery_n7425g:
     <li>Trimble Terra 230 Audio Panel</li>
     <li>JPI EDM 700 engine monitor</li>
     <li>DME</li>
-    <li>Engine: 230HP</li>
-    <li>Fitted covers</li>
+    <li>Fitted cover</li>
 </ul>
 
 {% include gallery id="layouts_gallery_n9910e" %}
@@ -76,13 +82,14 @@ layouts_gallery_n7425g:
 
 <ul>
     <li>Cessna 172K</li>
-    <li>$100/hour wet, based on tachometer time (not Hobbs!)</li>
-    <li>Dual NAVCOM (one with flip-flop)</li>
-    <li>DME</li>
-    <li>VFR GPS</li>
+    <li>Engine: 160HP</li>
+    <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
+    <li>Dual NAVCOM (with flip-flop)</li>
+    <li>Garmin GTN 650 GPS</li>
+    <li>GTX-345 ADS-B Transponder</li>
     <li>XPDR</li>
     <li>Four-place intercom</li>
-    <li>Engine: 160HP</li>
+    <li>Fitted cover</li>
 </ul>
 
 {% include gallery id="layouts_gallery_n7425g" %}

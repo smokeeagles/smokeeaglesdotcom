@@ -5,4 +5,8 @@ title: "Contact Us"
 
 {% include base_path %}
 
-Please send an email to <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
+For inquiries about membership, rates, plane availability, or anything else about our club, please send an email to:
+
+<ul>
+    <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+</ul>
