@@ -5,7 +5,7 @@ title: "Membership"
 
 {% include base_path %}
 
-<center><img src="{{ base_path }}/images/se/Meeting-FlyIn.jpg" alt="Membership" /></center>
+<center><img src="{{ base_path }}/images/se/membership-card-1958.png" alt="Membership card issued in Januarry 1958" /></center>
 
 ## Membership
 
