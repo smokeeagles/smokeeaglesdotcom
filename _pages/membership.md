@@ -26,4 +26,12 @@ We are always looking for potential new members to join the Smoke Eagles. If you
     <li>Volunteer Obligation of six hours of work (washes, marketing, maintenance, support, events) or by payment.</li>
 </ul>
 
-<a href="{{ base_path }}/contact" class="btn">Contact Us About Membership</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeP3LevVImtchiGD5UnSmI-DggLaNMEcPIyyaPBP-43pVRUdQ/viewform?usp=sf_link" class="btn">Contact Us About Membership</a>
+
+Or fill out the form below
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP3LevVImtchiGD5UnSmI-DggLaNMEcPIyyaPBP-43pVRUdQ/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+Or
+
+<a href="{{ base_path }}/contact" class="btn">Contact Us By Email</a>
