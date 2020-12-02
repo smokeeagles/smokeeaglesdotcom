@@ -1,6 +1,7 @@
 ---
 permalink: /aircraft/
 title: "Our Aircraft"
+excerpt: 'A non-profit flying club in Southern California'
 layouts_gallery_n9910e:
   - url: se/N9910E/20170703_133709.jpg
     image_path: se/N9910E/20170703_133709-400x284.jpg

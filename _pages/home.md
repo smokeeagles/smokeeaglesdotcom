@@ -7,7 +7,7 @@ header:
   cta_label: "Membership Info"
   cta_url: "/membership/"
   caption:
-excerpt: 'A non-profit flying community in Southern California'
+excerpt: 'A non-profit flying club in Southern California'
 feature_row:
   - image_path: se/schedulepointe.jpg
     alt: "Online Scheduling"
@@ -25,12 +25,12 @@ feature_row:
     excerpt: "Take the plane for the day or week, pay only for what you fly!<br /><br />Fly for as far or as long as you would like!"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Come join us!  We are a social club with approximately 30 members between two aircraft utilizing online booking and 24x7 access to the aircraft.'
+  - excerpt: 'Come join us!  We are a flying club with approximately 30 members between two airplanes utilizing online booking and 24x7 access to the aircraft.'
 feature_row2:
   - image_path: se/N9910E/parked.jpg
     alt: "N9910E"
     title: "Follow us on Facebook"
-    excerpt: 'Stay up to date with the latest Smoke Eagles events and member stories!'
+    excerpt: 'Stay up to date with the latest Smoke Eagles flying club events and member stories!'
     url: "https://www.facebook.com/groups/158452172119844/"
     btn_label: "Follow Us"
     btn_class: "btn--inverse"
