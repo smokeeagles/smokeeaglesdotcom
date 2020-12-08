@@ -28,7 +28,7 @@ intro:
   - excerpt: 'Come join us!  We are a flying club with approximately 30 members between two airplanes utilizing online booking and 24x7 access to the aircraft.'
 additional:
   - excerpt: 'We are based at Fullerton Municipal Airport, 4011 W Commonwealth Ave, Fullerton, CA 92833.  We have two airplanes, a Cessna 172 and a Cessna 182 tied down near the south-west lot.'
-  - excerpt: 'We often fly around Orange County and Southern California.  As a club member enjoy easy access to the planes and little restriction on destinations, flight time, or multimple overnights.'
+  - excerpt: 'We often fly around Orange County and Southern California.  As a club member enjoy easy access to the planes and little restriction on destinations, flight time, or multiple overnights.'
 feature_row2:
   - image_path: se/N9910E/parked.jpg
     alt: "N9910E"

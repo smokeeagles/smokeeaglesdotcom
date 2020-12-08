@@ -3,7 +3,7 @@ permalink: /aircraft/
 title: "Our Aircraft"
 excerpt: 'A non-profit flying club in Southern California'
 feature_row:
-  - excerpt: 'You can find us parked at the end of the further hangar in the south-west parking.  Look for our banner!'
+  - excerpt: 'You can find us parked at the end of the furthest hangar in the south-west parking.  Look for our banner!'
 layouts_gallery_n9910e:
   - url: se/N9910E/20170703_133709.jpg
     image_path: se/N9910E/20170703_133709-400x284.jpg
