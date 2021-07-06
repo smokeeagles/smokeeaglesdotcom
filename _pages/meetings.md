@@ -5,11 +5,11 @@ title: "Meetings"
 
 {% include base_path %}
 
-<center><img src="{{ base_path }}/images/se/Meeting-eagles2.jpg" alt="Meetings" /></center>
+<center><img src="{{ base_path }}/images/se/logo-wood.jpg" alt="Meetings" /></center>
 
-## Meetings
+<br />
 
-We hold open monthly meetings the first Tuesday of every month (almost) at AFI Flight Services at KFUL.  Due to COVID-19, these meetings are now hosted virtually.
+We hold open monthly meetings the first Tuesday of every month (almost) at AFI Flight Services at KFUL.
 
 All visitors are welcome. Meetings last about an hour, and are traditionally followed by no-host beer and pizza at a nearby restaurant during non-pandemic times.
 

@@ -10,6 +10,7 @@ locale                   : "en-US"
 title                    : "Smoke Eagles"
 title_separator          : "-"
 name                     : 
+logo                     : "se/logo.png"
 description              : &description "A non-profit flying community in Southern California"
 url                      : "https://www.smokeeagles.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -62,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "se/logo.jpg" # Open Graph/Twitter default site image
+og_image                 : "se/logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Smoke Eagles
-  avatar           : se/logo.jpg
+  avatar           : 
   bio              : Flying Club
   location         : KFUL
   email            : admin@smokeeagles.com
