@@ -13,8 +13,8 @@ The Smoke Eagles Board of Directors is voted upon by the club membership each De
 
 <ul>
     <li><strong>President</strong> – Ray Stratton</li>
-    <li><strong>Vice President</strong> – Chris Sarris</li>
+    <li><strong>Vice President</strong> – Cameron LaFont</li>
     <li><strong>Secretary</strong> – Dennis Lord</li>
-    <li><strong>Treasurer</strong> – Tim Long</li>
+    <li><strong>Treasurer</strong> – Chris Sarris</li>
     <li><strong>Operations Manager</strong> – Eric Parks</li>
 </ul>
