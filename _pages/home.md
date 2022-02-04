@@ -13,17 +13,18 @@ feature_row:
     alt: "Online Scheduling"
     title: "Online Scheduling"
     excerpt: "Quickly and easily schedule an aircraft 24 hours a day with Schedule Pointe."
-    btn_label: "Learn More"
+    url: "https://www.schedulepointe.com/SignOn.aspx"
+    new_window: true
+    btn_label: "Log In"
+    btn_class: "btn--inverse"
   - image_path: se/Both.jpg
     alt: "Based at KFUL"
     title: "Based at KFUL"
     excerpt: "Providing inexpensive, well-maintained flying to our members since 1954!"
-    btn_label: "Learn More"
   - image_path: se/N7425G/N7425G-4.jpg
     alt: "No daily minimums!"
     title: "No daily minimums!"
     excerpt: "Take the plane for the day or week, pay only for what you fly!<br /><br />Fly for as far or as long as you would like!"
-    btn_label: "Learn More"
 intro:
   - excerpt: 'Come join us!  We are a flying club with approximately 30 members between two airplanes utilizing online booking and 24x7 access to the aircraft.'
 additional:
