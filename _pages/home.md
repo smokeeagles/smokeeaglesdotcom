@@ -13,6 +13,8 @@ feature_row:
     alt: "Online Scheduling"
     title: "Online Scheduling"
     excerpt: "Quickly and easily schedule an aircraft 24 hours a day with Schedule Pointe."
+    additional_text: "View Today's Schedule"
+    additional_url: "schedule"
     url: "https://www.schedulepointe.com/SignOn.aspx"
     new_window: true
     btn_label: "Log In"

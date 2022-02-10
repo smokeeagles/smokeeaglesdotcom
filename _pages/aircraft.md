@@ -62,7 +62,11 @@ layouts_gallery_n7425g:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1353.1841193029097!2d-117.98360090607468!3d33.87060097755108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd2bced7bd5aeb%3A0xe40dc2e3e9e8a4d3!2sSmoke%20Eagles%20Flying%20Club!5e0!3m2!1sen!2sus!4v1606950536647!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-<br /><br /><br /><br />
+<br /><br />
+
+<p><center><a href="{{ base_path }}/schedule" class="btn {{ f.btn_class }}">View Aircraft Schedule</a></center></p>
+
+<br /><br />
 
 {% include toc %}
 
