@@ -12,7 +12,7 @@ title: "Membership"
 We are always looking for potential new members to join the Smoke Eagles. If you are looking for the absolute best deal anywhere and the most affordable pricing then contact us!
 
 <ul>
-    <li>Computerized scheduling – On the web, and apps available!</li>
+    <li>Computerized scheduling – On the web, and apps available!  <a href="{{ base_path }}/schedule">View schedule</a>.</li>
     <li>No daily minimums! Take the plane for the day or week, pay only for what you fly!</li>
     <li>Low hourly rate based on <em><strong>tach time</strong></em> and not Hobbs! Ground time is only about 30% of clock time! Tach makes it even less expensive to fly!</li>
     <li>Fly at cost! We are a non-profit!</li>

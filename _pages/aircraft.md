@@ -44,12 +44,6 @@ layouts_gallery_n7425g:
     alt: ""
 ---
 
-
-
-
-
-
-
 {% include base_path %}
 
 {% include feature_row type="center" %}
