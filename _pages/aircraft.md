@@ -5,24 +5,12 @@ excerpt: 'A non-profit flying club in Southern California'
 feature_row:
   - excerpt: 'You can find us parked at the end of the furthest hangar in the south-west parking.  Look for our banner!'
 layouts_gallery_n9910e:
-  - url: se/N9910E/20170703_133709.jpg
-    image_path: se/N9910E/20170703_133709-400x284.jpg
-    alt: "Installing ADS-B"
   - url: se/N9910E/182-Panel.jpg
     image_path: se/N9910E/182-Panel-400x284.jpg
     alt: "N9910E’s radio stack"
-  - url: se/N9910E/Both.jpg
-    image_path: se/N9910E/Both-400x284.jpg
-    alt: "7425G &amp; 9910E in their parking spots at KFUL and looking pretty!"
-  - url: se/N9910E/N9910E-3.jpg
-    image_path: se/N9910E/N9910E-3-400x284.jpg
-    alt: "New Parking Strips"
   - url: se/N9910E/aalp3.png
     image_path: se/N9910E/aalp3-400x284.png
     alt: "At Lone Pine, O26"
-  - url: se/N9910E/20170703_133657.jpg
-    image_path: se/N9910E/20170703_133657-400x284.jpg
-    alt: "Installing ADS-B"
   - url: se/N9910E/182front.jpg
     image_path: se/N9910E/182front-400x284.jpg
     alt: "Front seat"
@@ -32,29 +20,35 @@ layouts_gallery_n9910e:
   - url: se/N9910E/N9910E-6.jpg
     image_path: se/N9910E/N9910E-6-400x284.jpg
     alt: ""
-  - url: se/N9910E/N9910E-1.jpg
-    image_path: se/N9910E/N9910E-1-400x284.jpg
+  - url: se/N9910E/IMG_0013.JPG
+    image_path: se/N9910E/IMG_0013-400x284.JPG
     alt: ""
-  - url: se/N9910E/N9910E-5.jpg
-    image_path: se/N9910E/N9910E-5-400x284.jpg
-    alt: ""
-  - url: se/N9910E/N9910E-2.jpg
-    image_path: se/N9910E/N9910E-2-400x284.jpg
-    alt: "New Parking Stripes"
 layouts_gallery_n7425g:
+  - url: se/N7425G/20200807_090515.jpg
+    image_path: se/N7425G/20200807_090515-400x284.jpg
+    alt: "N7425G Avionics"
   - url: se/N7425G/Both.jpg
     image_path: se/N7425G/Both-400x284.jpg
     alt: "7425G &amp; 9910E in their parking spots at KFUL and looking pretty!"
-  - url: se/N7425G/172Photo.jpg
-    image_path: se/N7425G/172Photo-400x284.jpg
-    alt: "N7425G at KFUL"
-  - url: se/N7425G/N7425G-6.jpg
-    image_path: se/N7425G/N7425G-6-400x284.jpg
+  - url: se/N7425G/20200807_090419.jpg
+    image_path: se/N7425G/20200807_090419-400x284.jpg
+    alt: "N7425G trim and fuel selector"
+  - url: se/N7425G/20200807_090736.jpg
+    image_path: se/N7425G/20200807_090736-400x284.jpg
+    alt: "N7425G interior door"
+  - url: se/N7425G/20200807_090846.jpg
+    image_path: se/N7425G/20200807_090846-400x284.jpg
+    alt: "N7425G interior seats"
+  - url: se/N7425G/20210130_090326.jpg
+    image_path: se/N7425G/20210130_090326-400x284.jpg
     alt: ""
-  - url: se/N7425G/N7425G-4.jpg
-    image_path: se/N7425G/N7425G-4-400x284.jpg
-    alt: "Spot-Landing Contest"
 ---
+
+
+
+
+
+
 
 {% include base_path %}
 
