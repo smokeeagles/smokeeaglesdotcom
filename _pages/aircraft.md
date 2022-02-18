@@ -90,6 +90,8 @@ layouts_gallery_n7425g:
 
 {% include gallery id="layouts_gallery_n9910e" %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgQj1Ots17M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Cessna 172K - N7425G
 
 <center><img src="{{ base_path }}/images/se/N7425G/N7425G-1.jpg" alt="N7425G" /></center>
