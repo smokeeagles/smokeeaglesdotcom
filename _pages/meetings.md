@@ -9,7 +9,7 @@ title: "Meetings"
 
 <br />
 
-We hold open monthly meetings the first Tuesday of every month (almost) at AFI Flight Services at KFUL.
+We hold open monthly meetings the first Tuesday of every month (almost) at 4119 W. Commonwealth Ave, Fullerton at KFUL.
 
 All visitors are welcome. Meetings last about an hour, and are traditionally followed by no-host beer and pizza at a nearby restaurant during non-pandemic times.
 
