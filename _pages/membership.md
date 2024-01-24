@@ -7,7 +7,15 @@ title: "Membership"
 
 <center><img src="{{ base_path }}/images/se/membership-card-1958.png" alt="Membership card issued in Januarry 1958" /></center>
 
-## Membership
+## Membership Application
+
+<p>
+    <a target="_blank" href="{{ base_path }}/assets/files/application.docx" class="btn">Download Application (docx)</a>
+    <a target="_blank" href="{{ base_path }}/assets/files/application.pdf" class="btn">Download Application (pdf)</a>
+</p>
+<p>Please fill out the above application and send to <a href="mailto:admin@smokeeagles.com">admin@smokeeagles.com</a></p>
+
+## More info
 
 We are always looking for potential new members to join the Smoke Eagles. If you are looking for the absolute best deal anywhere and the most affordable pricing then contact us!
 
