@@ -9,8 +9,8 @@ title: "Meetings"
 
 <br />
 
-We hold open monthly meetings the first Tuesday of every month (almost) at 4119 W. Commonwealth Ave, Fullerton at KFUL.
+We hold open monthly meetings the first Thursday of every month. Most are via ZOOM, but about 1/3 are face to face in Fullerton at Larry’s Pizza 926 W Orangethorpe Ave, Fullerton. Meetings start at 7 PM.
 
-All visitors are welcome. Meetings last about an hour, and are traditionally followed by no-host beer and pizza at a nearby restaurant during non-pandemic times.
+All visitors are welcome. Meetings last about an hour. Face to face meetings are traditionally followed by no-host beer and pizza at a nearby restaurant.
 
 Attendance by members is not required, but strongly encouraged. A quorum is needed to conduct club business.
