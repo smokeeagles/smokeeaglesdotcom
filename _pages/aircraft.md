@@ -24,21 +24,21 @@ layouts_gallery_n9910e:
     image_path: se/N9910E/IMG_0013-400x284.JPG
     alt: ""
 layouts_gallery_n7425g:
-  - url: se/N7425G/20200807_090515.jpg
-    image_path: se/N7425G/20200807_090515-400x284.jpg
+  - url: se/N7425G/2025-interior/IMG_2932.jpg
+    image_path: se/N7425G/2025-interior/IMG_2932.jpg
     alt: "N7425G Avionics"
   - url: se/N7425G/Both.jpg
     image_path: se/N7425G/Both-400x284.jpg
     alt: "7425G &amp; 9910E in their parking spots at KFUL and looking pretty!"
-  - url: se/N7425G/20200807_090419.jpg
-    image_path: se/N7425G/20200807_090419-400x284.jpg
-    alt: "N7425G trim and fuel selector"
-  - url: se/N7425G/20200807_090736.jpg
-    image_path: se/N7425G/20200807_090736-400x284.jpg
-    alt: "N7425G interior door"
-  - url: se/N7425G/20200807_090846.jpg
-    image_path: se/N7425G/20200807_090846-400x284.jpg
-    alt: "N7425G interior seats"
+  - url: se/N7425G/2025-interior/IMG_2930.jpg
+    image_path: se/N7425G/2025-interior/IMG_2930.jpg
+    alt: "N7425G Front Seats"
+  - url: se/N7425G/2025-interior/IMG_2931.jpg
+    image_path: se/N7425G/2025-interior/IMG_2931.jpg
+    alt: "N7425G Back Seats"
+  - url: se/N7425G/2025-interior/IMG_2933.jpg
+    image_path: se/N7425G/2025-interior/IMG_2933.jpg
+    alt: "N7425G Looking Back"
   - url: se/N7425G/20210130_090326.jpg
     image_path: se/N7425G/20210130_090326-400x284.jpg
     alt: ""
