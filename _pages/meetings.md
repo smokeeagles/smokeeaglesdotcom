@@ -13,7 +13,7 @@ We hold open monthly meetings the second Thursday of every month. Most are via Z
 
 Hangar 21<br>
 3815 W Commonwealth Ave<br>
-Fullerton, CA 92833-0000
+Fullerton, CA 92833
 
 Meetings start at 7 PM. All visitors are welcome. Meetings last about an hour.
 
