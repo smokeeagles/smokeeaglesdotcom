@@ -9,8 +9,12 @@ title: "Meetings"
 
 <br />
 
-We hold open monthly meetings the first Thursday of every month. Most are via ZOOM, but about 1/3 are face to face in Fullerton at Larry’s Pizza 926 W Orangethorpe Ave, Fullerton. Meetings start at 7 PM.
+We hold open monthly meetings the second Thursday of every month. Most are via ZOOM. In person meetings are usually held at:
 
-All visitors are welcome. Meetings last about an hour. Face to face meetings are traditionally followed by no-host beer and pizza at a nearby restaurant.
+Hangar 21<br>
+3815 W Commonwealth Ave<br>
+Fullerton, CA 92833
 
-Attendance by members is not required, but strongly encouraged. A quorum is needed to conduct club business.
+Meetings start at 7 PM. All visitors are welcome. Meetings last about an hour.
+
+We strongly encourage attendance at meetings, but it's not required. We do need a quorum of 1/3 membership to conduct club business. We are a non-profit social club, so we truly like to get to know our members.
