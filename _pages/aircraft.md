@@ -66,12 +66,13 @@ layouts_gallery_n7425g:
     <li>Cessna 182P</li>
     <li>Engine: 230HP</li>
     <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
+    <li><b>IFR Equipped</b></li>
     <li>Garmin GNS 530 WAAS</li>
     <li>Garmin GTX-345 ADS-B Transponder</li>
     <li>Dual Digital NAVCOM (one with flip-flop)</li>
     <li>Autopilot (1-axis)</li>
     <li>Trimble Terra 230 Audio Panel</li>
-    <li>JPI EDM 700 engine monitor</li>
+    <li>JPI EDM 800 engine monitor</li>
     <li>DME</li>
     <li>Fitted cover</li>
 </ul>
@@ -86,6 +87,7 @@ layouts_gallery_n7425g:
     <li>Cessna 172K</li>
     <li>Engine: 160HP</li>
     <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
+    <li><b>IFR Equipped</b></li>
     <li>Dual NAVCOM (with flip-flop)</li>
     <li>Garmin GTN 650 GPS</li>
     <li>GTX-345 ADS-B Transponder</li>
