@@ -4,25 +4,6 @@ title: "Our Aircraft"
 excerpt: 'A non-profit flying club in Southern California'
 feature_row:
   - excerpt: 'You can find us parked at the end of the furthest hangar in the south-west parking.  Look for our banner!'
-layouts_gallery_n9910e:
-  - url: se/N9910E/182-Panel.jpg
-    image_path: se/N9910E/182-Panel-400x284.jpg
-    alt: "N9910E’s radio stack"
-  - url: se/N9910E/aalp3.png
-    image_path: se/N9910E/aalp3-400x284.png
-    alt: "At Lone Pine, O26"
-  - url: se/N9910E/182front.jpg
-    image_path: se/N9910E/182front-400x284.jpg
-    alt: "Front seat"
-  - url: se/N9910E/182backseat.jpg
-    image_path: se/N9910E/182backseat-400x284.jpg
-    alt: "Back seat"
-  - url: se/N9910E/N9910E-6.jpg
-    image_path: se/N9910E/N9910E-6-400x284.jpg
-    alt: ""
-  - url: se/N9910E/IMG_0013.JPG
-    image_path: se/N9910E/IMG_0013-400x284.JPG
-    alt: ""
 layouts_gallery_n7425g:
   - url: se/N7425G/2025-interior/IMG_2932.jpg
     image_path: se/N7425G/2025-interior/IMG_2932.jpg
@@ -57,27 +38,6 @@ layouts_gallery_n7425g:
 <br /><br />
 
 {% include toc %}
-
-## Cessna 182P - N9910E
-
-<center><img src="{{ base_path }}/images/se/N9910E/182Photo.jpg" alt="N9910E" /></center>
-
-<ul>
-    <li>Cessna 182P</li>
-    <li>Engine: 230HP</li>
-    <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
-    <li><b>IFR Equipped</b></li>
-    <li>Garmin GNS 530 WAAS</li>
-    <li>Garmin GTX-345 ADS-B Transponder</li>
-    <li>Dual Digital NAVCOM (one with flip-flop)</li>
-    <li>Autopilot (1-axis)</li>
-    <li>Trimble Terra 230 Audio Panel</li>
-    <li>JPI EDM 800 engine monitor</li>
-    <li>DME</li>
-    <li>Fitted cover</li>
-</ul>
-
-{% include gallery id="layouts_gallery_n9910e" %}
 
 ## Cessna 172K - N7425G
 

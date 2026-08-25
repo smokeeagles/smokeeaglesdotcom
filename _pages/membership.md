@@ -16,7 +16,8 @@ We are always looking for potential new members to join the Smoke Eagles. If you
     <li>Fly at cost! We are a non-profit!</li>
     <li>Fuel cost reimbursement.</li>
     <li>24/7/365 access to the planes using your own keys!</li>
-    <li>Low buy-in, 100% refundable if you leave!</li>
+    <li>Low buy-in price of <strong>$4,150</strong>, 100% refundable if you leave!</li>
+    <li>No deposit to apply, and no obligation to join</li>
     <li>FAA currency and club checkout required.</li>
     <li>Members must be licensed pilots. No student pilots.</li>
     <li>Maximum of 30 members.</li>
@@ -24,11 +25,7 @@ We are always looking for potential new members to join the Smoke Eagles. If you
     <li>Volunteer Obligation of six hours of work (washes, marketing, maintenance, support, events) or by payment.</li>
 </ul>
 
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeP3LevVImtchiGD5UnSmI-DggLaNMEcPIyyaPBP-43pVRUdQ/viewform?usp=sf_link" class="btn">Contact Us About Membership</a>
-
-Or fill out the form below
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP3LevVImtchiGD5UnSmI-DggLaNMEcPIyyaPBP-43pVRUdQ/viewform?embedded=true" width="640" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeCFlsIE6m757nt70DffmB3TNi5hBrzt6kpDdLHkLpn0Uk47g/viewform" class="btn">Apply for Membership</a>
 
 Or
 
