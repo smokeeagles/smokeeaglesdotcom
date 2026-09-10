@@ -23,6 +23,25 @@ layouts_gallery_n7425g:
   - url: se/N7425G/20210130_090326.jpg
     image_path: se/N7425G/20210130_090326-400x284.jpg
     alt: ""
+layouts_gallery_n4759n:
+  - url: se/N4759N/N4759N-1.jpg
+    image_path: se/N4759N/N4759N-1.jpg
+    alt: ""
+  - url: se/N4759N/N4759N-2.jpg
+    image_path: se/N4759N/N4759N-2.jpg
+    alt: ""
+  - url: se/N4759N/N4759N-3.jpg
+    image_path: se/N4759N/N4759N-3.jpg
+    alt: ""
+  - url: se/N4759N/N4759N-4.jpg
+    image_path: se/N4759N/N4759N-4.jpg
+    alt: ""
+  - url: se/N4759N/N4759N-5.jpg
+    image_path: se/N4759N/N4759N-5.jpg
+    alt: ""
+  - url: se/N4759N/N4759N-6.jpg
+    image_path: se/N4759N/N4759N-6.jpg
+    alt: ""
 ---
 
 {% include base_path %}
@@ -45,6 +64,7 @@ layouts_gallery_n7425g:
 
 <ul>
     <li>Cessna 172K</li>
+    <li>Hourly rate <strong>$135</strong>, wet</li>
     <li>Engine: 160HP</li>
     <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
     <li><b>IFR Equipped</b></li>
@@ -57,3 +77,18 @@ layouts_gallery_n7425g:
 </ul>
 
 {% include gallery id="layouts_gallery_n7425g" %}
+
+## Cessna 182Q - N4759N
+
+<center><img src="{{ base_path }}/images/se/N4759N/N4759N-2.jpg" alt="N4759N" /></center>
+
+<ul>
+    <li>Cessna 182Q</li>
+    <li>Hourly rate <strong>$200</strong>, wet</li>
+    <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
+    <li><b>IFR Equipped</b></li>
+    <li>Garmin Dual GI 275 AI & HSI Garmin GMA 340 Audio Panel Garmin GNS-530W Com/Nav/GPS WAAS Cessna TKM MX385 Com/Nav with Glidslope Garmin GTX 345 Transponder ADS B in&out Garmin Flight Stream 210 with Bluetooth Garmin GFC-500 with electric Trim</li>
+    <li>Yoke Electric Pitch Trim with A/P disconnect Outside W/S Cabin Cover Battery Minder Portable 02 System with attachments LED Taxi and Landing Lights</li>
+</ul>
+
+{% include gallery id="layouts_gallery_n4759n" %}

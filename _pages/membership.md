@@ -16,7 +16,8 @@ We are always looking for potential new members to join the Smoke Eagles. If you
     <li>Fly at cost! We are a non-profit!</li>
     <li>Fuel cost reimbursement.</li>
     <li>24/7/365 access to the planes using your own keys!</li>
-    <li>Low buy-in price of <strong>$4,150</strong>, 100% refundable if you leave!</li>
+    <li>Low buy-in price of <strong>$6,150</strong>, 100% refundable if you leave!</li>
+    <li>Monthly dues of <strong>$165</strong></li>
     <li>No deposit to apply, and no obligation to join</li>
     <li>FAA currency and club checkout required.</li>
     <li>Members must be licensed pilots. No student pilots.</li>
