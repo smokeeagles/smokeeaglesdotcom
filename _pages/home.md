@@ -33,8 +33,8 @@ additional:
   - excerpt: 'We are based at Fullerton Municipal Airport, 4011 W Commonwealth Ave, Fullerton, CA 92833.  We have two airplanes, a Cessna 172 and a Cessna 182 tied down near the south-west lot.'
   - excerpt: 'We often fly around Orange County and Southern California.  As a club member enjoy easy access to the planes and little restriction on destinations, flight time, or multiple overnights.'
 feature_row2:
-  - image_path: se/N9910E/parked.jpg
-    alt: "N9910E"
+  - image_path: se/N4759N/N4759N-2.jpg
+    alt: "N4759N"
     title: "Follow us on Facebook"
     excerpt: 'Stay up to date with the latest Smoke Eagles flying club events and member stories!'
     url: "https://www.facebook.com/groups/158452172119844/"
