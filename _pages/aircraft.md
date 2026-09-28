@@ -86,9 +86,20 @@ layouts_gallery_n4759n:
     <li>Cessna 182Q</li>
     <li>Hourly rate <strong>$200</strong>, wet</li>
     <li>Billed per hour wet, based on tachometer time (not Hobbs!)</li>
+    <li>Engine: 230HP</li>
     <li><b>IFR Equipped</b></li>
-    <li>Garmin Dual GI 275 AI & HSI Garmin GMA 340 Audio Panel Garmin GNS-530W Com/Nav/GPS WAAS Cessna TKM MX385 Com/Nav with Glidslope Garmin GTX 345 Transponder ADS B in&out Garmin Flight Stream 210 with Bluetooth Garmin GFC-500 with electric Trim</li>
-    <li>Yoke Electric Pitch Trim with A/P disconnect Outside W/S Cabin Cover Battery Minder Portable 02 System with attachments LED Taxi and Landing Lights</li>
+    <li>Garmin Dual GI-275 AI & HSI</li>
+    <li>Garmin GMA-340 Audio Panel</li>
+    <li>Garmin GNS-530W Com/Nav/GPS WAAS</li>
+    <li>Garmin GTX-345 Transponder ADS B in/out</li>
+    <li>Garmin GFC-500 with Electric Trim</li>
+    <li>Garmin Flight Stream 210 with Bluetooth</li>
+    <li>TKM MX385 Com/Nav with Glideslope</li>
+    <li>Yoke Electric Pitch Trim with A/P disconnect</li>
+    <li>Outside W/S Cabin Cover</li>
+    <li>Battery Minder</li>
+    <li>Portable 02 System with attachments</li>
+    <li>LED Taxi and Landing Lights</li>
 </ul>
 
 {% include gallery id="layouts_gallery_n4759n" %}
